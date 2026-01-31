@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi, I'm Anupam Mishra 👋
 
-<!--
-**anupammish/anupammish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with **3+ years of experience** building scalable web applications and modern user interfaces.
 
-Here are some ideas to get you started:
+I specialize in frontend frameworks like **React, Next.js, and Angular**, with strong backend experience using **Node.js** and cloud platforms like **GCP and AWS**. I also have hands-on experience with **automation testing using Selenium (Java)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- Angular
+- JavaScript / TypeScript
+- HTML, CSS
+
+**Backend**
+- Node.js
+- REST APIs
+
+**Cloud & DevOps**
+- Google Cloud Platform (GCP)
+- AWS
+
+**Testing & Automation**
+- Selenium
+- Java
+
+**Tools**
+- Git & GitHub
+- CI/CD Pipelines
+
+---
+
+### 💼 Experience
+- 3+ years as a Full Stack Developer
+- Building production-ready web applications
+- Working with cloud deployments and scalable architectures
+- Improving UI performance, accessibility, and reliability
+
+---
+
+### 📌 Featured Projects
+Check out my pinned repositories below for real-world projects and implementations.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn**: https://www.linkedin.com/in/anupam-mishra-364493261  
+- **X (Twitter)**: https://x.com/AnupamM76355  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
