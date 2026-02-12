@@ -60,7 +60,7 @@
 
 ```javascript
 const experience = {
-    totalYears: "3+",
+    totalYears: "5+",
     expertise: [
         "🎯 Production-ready web application development",
         "☁️  Cloud deployments & scalable architectures",
@@ -73,15 +73,6 @@ const experience = {
 };
 ```
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam-mishra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-mishra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupam-mishra&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 ---
 
@@ -108,11 +99,7 @@ const experience = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anupam-mishra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 ---
 
