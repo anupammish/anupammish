@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 💼 **Role:** Full Stack Developer
-- 📅 **Experience:** 3+ years in web development
+- 📅 **Experience:** 5+ years in web development
 - 📍 **Location:** India 🇮🇳
 - 🎯 **Specialization:**
   - Building scalable web applications
